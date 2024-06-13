@@ -44,4 +44,4 @@ create_py_app create_project --framework [FRAMEWORK] [PROJECT_NAME]
 ```sh
 create_py_app create_project --framework 1 my_supervised_learning_project
 ```
-This will create a new directory named my_supervised_learning_project with the boilerplate code for a Supervised Learning project.
+This will create a new directory named my_supervised_learning_project with the boilerplate code for a new Supervised Learning project.
